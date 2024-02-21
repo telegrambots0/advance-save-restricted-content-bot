@@ -1,4 +1,4 @@
-#Join t.me/dev_gagan
+#Join t.me/SwargOmegaOp
 
 import logging
 import time, os, asyncio
