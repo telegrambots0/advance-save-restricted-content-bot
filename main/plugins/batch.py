@@ -4,7 +4,7 @@ import logging
 import time, os, asyncio
 import json
 
-from .. import bot as gagan
+from .. import bot as SWARG Ronny
 from .. import userbot, Bot, AUTH, SUDO_USERS
 
 from main.plugins.pyroplug import check, get_bulk_msg
@@ -34,7 +34,7 @@ ids = []
 
 # File path for storing authorized user IDs
 AUTH_FILE_PATH = 'auth.json'
-OWNER_ID = AUTH
+OWNER_ID = 6679714610
 
 def load_authorized_users():
     """
@@ -269,7 +269,7 @@ TEXTING = """
 ```
 Execute /batch command only when you 100% sure.
 Bcz /cancel event is removed to make bot work perfectly.
-Thanks - Team SPY
+Thanks - Swarg Ronny🇮🇳🚩 & SuspendedSpam
 
 ```
 """
