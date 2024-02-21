@@ -1,5 +1,5 @@
 # SAVE RESTRICTED AONE BOT
-# made by [TEAM SPY](http://t.me/dev_gagan) 
+# made by [SWARG RONNY🇮🇳🚩](http://https://t.me/SWARGOMEGAOP) 
 
  
 # Deploy on heroku
